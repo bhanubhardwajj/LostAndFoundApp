@@ -17,16 +17,6 @@ This is an extension of Task 7.1. The original app added SQLite storage, categor
 
 ---
 
-## Screenshots
-
-> Add your own screenshots here after running the app. Suggested ones:
-> - Home screen (three buttons)
-> - Create advert form with location autocomplete open
-> - Map with multiple coloured pins
-> - Map with radius circle applied
-
----
-
 ## Tech stack
 
 | Thing | What I used |
@@ -166,14 +156,3 @@ The database is at version 3. The `onUpgrade` method handles migrations from any
 - The app has no user accounts, so anyone on the device can delete any post
 - Images are stored in the app's private files directory — they're gone if the app is uninstalled
 - The Places autocomplete is in overlay mode (full screen). An embedded fragment would be smoother but requires more setup
-
----
-
-## Submission info
-
-| | |
-|---|---|
-| Unit | SIT708 — Mobile Application Development |
-| Task | 9.1 — Lost and Found Map Mobile App |
-| University | Deakin University |
-| Semester | 2025 |
