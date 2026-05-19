@@ -67,7 +67,7 @@
         Google Maps API key before building the project.
         You can get a key at https://console.cloud.google.com
     -->
-    <string name="google_maps_key" translatable="false">AIzaSyAjNZq5zcuZGw9DzZoCfsg9znD0ujZLsUM</string>
+    <string name="google_maps_key" translatable="false">YOUR_GOOGLE_MAPS_API_KEY_HERE</string>
 
     <!-- Categories -->
     <string-array name="categories">
