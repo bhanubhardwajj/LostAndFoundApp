@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lost &amp; Found</string>
+    <string name="main_subtitle">Reunite lost items with their owners</string>
+
+    <!-- Home screen -->
+    <string name="create_a_new_advert">Create a new advert</string>
+    <string name="show_all_lost_and_found_items">Show all lost &amp; found items</string>
+    <string name="show_on_map">Show on map</string>   <!-- NEW 9.1 -->
+
+    <!-- Toolbar titles -->
+    <string name="create_new_advert">Create a new advert</string>
+    <string name="lost_and_found_items">Lost &amp; Found Items</string>
+    <string name="item_details">Item details</string>
+
+    <!-- Form labels -->
+    <string name="post_type">Post type</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="category">Category</string>
+    <string name="image">Image</string>
+
+    <!-- Hints -->
+    <string name="hint_name">e.g. Apple AirPods</string>
+    <string name="hint_phone">e.g. 0412 345 678</string>
+    <string name="hint_description">A few words about the item…</string>
+    <string name="hint_date">Tap to pick a date</string>
+    <string name="hint_location">e.g. Burwood campus, Building LB</string>
+    <string name="hint_location_tap">Tap to search a location</string>  <!-- NEW 9.1 -->
+
+    <!-- Buttons -->
+    <string name="pick_image">Choose photo</string>
+    <string name="get_current_location">Get current location</string>   <!-- NEW 9.1 -->
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="apply">Apply</string>                                  <!-- NEW 9.1 -->
+
+    <!-- Image / accessibility -->
+    <string name="image_preview">Photo preview</string>
+
+    <!-- List screen -->
+    <string name="search_hint">Search by name or description</string>
+    <string name="filter_by">Filter by category:</string>
+    <string name="empty_list">No adverts yet — try creating one!</string>
+
+    <!-- Detail screen labels -->
+    <string name="label_post_type">Post type:</string>
+    <string name="label_phone">Phone:</string>
+    <string name="label_date">Date:</string>
+    <string name="label_category">Category:</string>
+
+    <!-- Map screen — NEW 9.1 -->
+    <string name="radius_filter_label">Radius:</string>
+    <string name="radius_all">All items</string>
+    <string name="radius_km">%d km</string>
+    <string name="radius_hint">Drag to 0 to show all items regardless of distance</string>
+    <string name="legend_lost">Lost item</string>
+    <string name="legend_found">Found item</string>
+
+    <!--
+        IMPORTANT: Replace the placeholder value below with your actual
+        Google Maps API key before building the project.
+        You can get a key at https://console.cloud.google.com
+    -->
+    <string name="google_maps_key" translatable="false">AIzaSyAjNZq5zcuZGw9DzZoCfsg9znD0ujZLsUM</string>
+
+    <!-- Categories -->
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Pets</item>
+        <item>Wallets</item>
+        <item>Documents</item>
+        <item>Clothing</item>
+        <item>Keys</item>
+        <item>Bags</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="categories_with_all">
+        <item>All</item>
+        <item>Electronics</item>
+        <item>Pets</item>
+        <item>Wallets</item>
+        <item>Documents</item>
+        <item>Clothing</item>
+        <item>Keys</item>
+        <item>Bags</item>
+        <item>Other</item>
+    </string-array>
+</resources>
