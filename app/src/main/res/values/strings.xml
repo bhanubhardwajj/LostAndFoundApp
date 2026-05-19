@@ -6,7 +6,7 @@
     <!-- Home screen -->
     <string name="create_a_new_advert">Create a new advert</string>
     <string name="show_all_lost_and_found_items">Show all lost &amp; found items</string>
-    <string name="show_on_map">Show on map</string>   <!-- NEW 9.1 -->
+    <string name="show_on_map">Show on map</string>   
 
     <!-- Toolbar titles -->
     <string name="create_new_advert">Create a new advert</string>
@@ -31,14 +31,14 @@
     <string name="hint_description">A few words about the item…</string>
     <string name="hint_date">Tap to pick a date</string>
     <string name="hint_location">e.g. Burwood campus, Building LB</string>
-    <string name="hint_location_tap">Tap to search a location</string>  <!-- NEW 9.1 -->
+    <string name="hint_location_tap">Tap to search a location</string>  
 
     <!-- Buttons -->
     <string name="pick_image">Choose photo</string>
-    <string name="get_current_location">Get current location</string>   <!-- NEW 9.1 -->
+    <string name="get_current_location">Get current location</string>   
     <string name="save">Save</string>
     <string name="remove">Remove</string>
-    <string name="apply">Apply</string>                                  <!-- NEW 9.1 -->
+    <string name="apply">Apply</string>                                  
 
     <!-- Image / accessibility -->
     <string name="image_preview">Photo preview</string>
